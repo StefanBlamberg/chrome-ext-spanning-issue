@@ -1,0 +1,1 @@
+chrome.devtools.panels.create('Test extension bug', '', 'main.html');

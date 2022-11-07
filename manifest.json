@@ -1,0 +1,14 @@
+{
+    "name": "injection bug",
+    "version": "1.0",
+    "manifest_version": 3,
+    "permissions": [
+        "scripting"
+    ],
+    "devtools_page": "devtools.html",
+    // Uncomment next line to make it work
+    // "incognito": "split",
+    "host_permissions": [
+        "*://*/*"
+    ]
+}
